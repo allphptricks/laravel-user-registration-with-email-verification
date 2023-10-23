@@ -47,7 +47,18 @@
     </nav>    
 
     <div class="container">
+        <h3 class="text-center mt-3 mb-3">Laravel 10 Custom User Registration with Email Verification</h3>
         @yield('content')
+        <div class="row justify-content-center text-center mt-3">
+            <div class="col-md-12">
+                <p>Back to Tutorial: 
+                    <a href="https://www.allphptricks.com/laravel-user-registration-with-email-verification/"><strong>Tutorial Link</strong></a>
+                </p>
+                <p>
+                    For More Web Development Tutorials Visit: <a href="https://www.allphptricks.com/"><strong>AllPHPTricks.com</strong></a>
+                </p>
+            </div>
+        </div>
     </div>
        
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4" crossorigin="anonymous"></script>    
